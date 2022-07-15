@@ -1,0 +1,49 @@
+body
+{
+	background: rgb(214, 243, 234);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		font-family: 'Kalam', cursive;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+	font-family: 'Kalam', cursive;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #000000;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#guesstheword
+{
+font-family: 'Kalam', cursive;
+}
+#login
+{
+	background: #043a1b;
+	border-color: #043a1b;
+	font-family: 'Kalam', cursive;
+	font-size: 20px;
+}
